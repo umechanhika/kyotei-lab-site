@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>競艇AI予想とは|仕組み・使うデータ・的中実績の全公開|競艇AIラボ</title>
+<meta name="description" content="競艇AI予想とは、過去のレース結果や選手・モーターの成績といったデータを統計的に処理して、着順の見込みを機械的に算出する予想のことです。このページでは、競艇AIが一般に何をしていて何ができないのかを整理したうえで、当サイト(競艇AIラボ)…">
+<link rel="canonical" href="https://kyotei-lab.com/how-it-works/">
+<link rel="alternate" type="application/rss+xml" title="競艇AIラボ" href="https://kyotei-lab.com/feed.xml">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="icon" href="/assets/icon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/assets/icon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<meta name="theme-color" content="#0d1424">
+<meta property="og:site_name" content="競艇AIラボ">
+<meta property="og:type" content="website">
+<meta property="og:title" content="競艇AI予想とは|仕組み・使うデータ・的中実績の全公開">
+<meta property="og:description" content="競艇AI予想とは、過去のレース結果や選手・モーターの成績といったデータを統計的に処理して、着順の見込みを機械的に算出する予想のことです。このページでは、競艇AIが一般に何をしていて何ができないのかを整理したうえで、当サイト(競艇AIラボ)…">
+<meta property="og:url" content="https://kyotei-lab.com/how-it-works/">
+<meta property="og:image" content="https://kyotei-lab.com/img/how-it-works-eyecatch.png">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "item": "https://kyotei-lab.com/", "name": "\u30c8\u30c3\u30d7", "position": 1}, {"@type": "ListItem", "item": "https://kyotei-lab.com/how-it-works/", "name": "\u7af6\u8247AI\u4e88\u60f3\u3068\u306f|\u4ed5\u7d44\u307f\u30fb\u4f7f\u3046\u30c7\u30fc\u30bf\u30fb\u7684\u4e2d\u5b9f\u7e3e\u306e\u5168\u516c\u958b", "position": 2}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PXSQ5PEJ99"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-PXSQ5PEJ99');</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/"><img class="brand-logo" src="/assets/logo-header.png" alt="競艇AIラボ" width="179" height="40"></a>
+    <nav class="site-nav" aria-label="メイン">
+      <a href="/">トップ</a>
+      <a href="/forecast/">今日の予想</a>
+      <a href="/result/">結果</a>
+      <a href="/column/">コラム</a>
+      <a href="/record/">予想実績</a>
+      <a href="/venues/">場別データ</a>
+      <a href="/beginners-guide/" class="nav-cta">初心者ガイド</a>
+    </nav>
+  </div>
+</header>
+<main class="site-main">
+<article class="post page">
+  <header class="post-header">
+    <h1 class="post-title">競艇AI予想とは|仕組み・使うデータ・的中実績の全公開</h1>
+  </header>
+  <figure class="post-eyecatch"><img src="/img/how-it-works-eyecatch.png" alt="" width="1200" height="630"></figure>
+  <div class="post-body">
+    <p>競艇AI予想とは、過去のレース結果や選手・モーターの成績といったデータを統計的に処理して、着順の見込みを機械的に算出する予想のことです。このページでは、競艇AIが一般に何をしていて何ができないのかを整理したうえで、当サイト(競艇AIラボ)の予想が「どうやって作られているか」を全部公開します。中身の見えない予想を売らない、というのが当サイトの方針です。</p>
+<h2>競艇AI予想とは何か</h2>
+<p>競艇は6艇だけで争い、内側のコースが構造的に有利で、選手・モーターの成績が公式に毎日公開されます。出走数が少なく、結果を説明する数字が揃っているため、公営競技のなかでは統計的な予想と相性が良い競技です。競艇AIと呼ばれるものは、おおむね次の手順を踏んでいます。</p>
+<ol><li><strong>データを集める</strong> — 番組表(出走メンバーと成績)と競走成績(着順・ST・進入)を蓄積する</li><li><strong>特徴量に変換する</strong> — 勝率、モーター2連率、コース別の1着率、平均STなど、着順と関係のありそうな数字を1艇ごとに切り出す</li><li><strong>過去データで重みを決める</strong> — どの数字をどれだけ重視すると過去の結果をうまく説明できるかを探索する</li><li><strong>今日のレースに当てはめる</strong> — 同じ計算を本日の出走表に適用し、スコア順に並べて買い目を組む</li></ol>
+<p>サービスによって、使うデータ(直前情報を含めるか)、モデルの種類(線形のスコアリングか、機械学習か)、そして買うレースを絞るかどうかが違います。</p>
+<h2>競艇AIにできないこと</h2>
+<p>先に限界を書きます。ここを曖昧にしたまま数字だけを見せるのは不誠実だと考えるためです。</p>
+<ul><li><strong>確実な的中はありません</strong> — 統計は起こりやすさを示すだけで、1レースの結果を言い当てるものではありません。</li><li><strong>データにないことは分かりません</strong> — 当日の急な天候変化、選手の体調、整備の細かな手応えは、公式データには現れません。</li><li><strong>過去に当てはめすぎると外れます</strong> — 過去データに合わせ込んだ重みは、未来のレースで再現しないことがあります(過学習)。</li><li><strong>回収率はプラスを約束できません</strong> — 舟券には控除率があり、的中率が高くても配当が低ければ収支は下がります。</li></ul>
+<p>当サイトがこれらにどう対処しているかは、この下の各節と<a href="/record/">実績ページ</a>で確かめられます。</p>
+<h2>使っているデータ</h2>
+<p>ボートレース公式が毎日公開している番組表・競走成績のみを使います。選手の実力(全国勝率・全国2連率・当地勝率・当地2連率)、機力(モーター2連率・ボート2連率)、級別、枠番(コース別の統計的有利さ)、体重・年齢、およびこれらを掛け合わせた指標を評価します。関係者情報や「裏情報」の類は一切使いません(持っていません)。</p>
+<h2>予想のロジック</h2>
+<p>各艇について上記の項目を重み付きで合算したスコアを計算し、スコア順に艇をランク付けします。買い目はスコア1位を1着に固定し、2〜4位の艇を2・3着に並べる3連単6点フォーメーションです。その日の全レースのうち、1位と2位のスコア差が大きい(=データ上の評価が割れなかった)レースだけを厳選して記事にします。</p>
+<p>いま使っている重みは次のとおりです。棒が長い項目ほどスコアへの影響が大きく、毎週の自動チューニングで入れ替わります。</p>
+<figure class="wp-block-image"><img src="/img/how-it-works-weights.png" alt="予想スコアの評価項目と重み(上位10項目)。最も大きいのは枠番の2.54" width="1000" height="556" loading="lazy" /></figure>
+<h2>毎週の自動チューニング</h2>
+<p>スコアの重みは固定ではありません。毎週、直近180日のデータで新しい重み候補を探索し、直近30日の検証期間で現行の重みと成績を比較します。上回った場合のみ採用する(champion/challenger方式)ため、成績を悪化させる変更は自動的に棄却されます。</p>
+<h2>成績の全公開</h2>
+<p>公開した予想は全て、その日の夜に機械的に的中判定し、<a href="/record/">実績ページ</a>に月別の的中率・回収率として集計します。外れた日の結果もそのまま<a href="/result/">答え合わせ記事</a>で公開します。予想は統計に基づくエンターテインメントであり、的中や利益を約束するものではありません。詳しくは<a href="/disclaimer/">免責事項</a>をご覧ください。</p>
+<h2>記事も自動生成です</h2>
+<p>記事の文章はAI(大規模言語モデル)が書いていますが、数字・買い目・見出しはすべてプログラムが公式データから機械的に組み立てており、AIが事実を創作する余地を最小化しています。誇大な表現が混入していないかも公開前に機械チェックしています。</p>
+<h2>はじめての方へ</h2>
+<p><a href="/beginners-guide/">初心者ガイド</a>と<a href="/glossary/">用語集</a>からどうぞ。毎朝の予想は<a href="/forecast/">こちら</a>(全レース無料)。</p>
+  </div>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="footer-note">予想はボートレースの公開データを機械的に分析したエンターテインメントです。舟券の購入は20歳以上の方が、ご自身の判断と余裕資金の範囲で。</p>
+    <nav aria-label="フッター">
+      <a href="/disclaimer/">免責事項</a>
+      <a href="/privacy-policy/">プライバシーポリシー</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+    <p class="copyright">&copy; 2026 競艇AIラボ</p>
+  </div>
+</footer>
+</body>
+</html>

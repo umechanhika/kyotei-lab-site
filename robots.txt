@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kyotei-lab.com/sitemap.xml
