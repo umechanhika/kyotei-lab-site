@@ -5,8 +5,22 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 30 Oct 2026 05:42:39 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 04:38:40 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【10月30日】競艇AI予想の答え合わせ — 1/3的中・払戻4,170円</title>
+    <link>https://kyotei-lab.com/result-2026-10-30/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-30/</guid>
+    <pubDate>Sat, 31 Oct 2026 04:38:40 +0900</pubDate>
+    <description>10月30日の競艇予想の結果は3レース中1的中(回収率231.7%)。全買い目と払戻を包み隠さず公開しています。</description>
+  </item>
+  <item>
+    <title>B1でも全国勝率が高い選手は、オッズの見込みより勝っていた|級別と実力のズレを検証</title>
+    <link>https://kyotei-lab.com/column-class-gap-2026-10-30/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/column-class-gap-2026-10-30/</guid>
+    <pubDate>Fri, 30 Oct 2026 18:40:30 +0900</pubDate>
+    <description>B1で全国勝率が中央値より0.5以上高い艇は、オッズの見込みの1.08〜1.12倍勝っていた。級別ごとに全国勝率の差で分けて集計した。</description>
+  </item>
   <item>
     <title>【10月30日】今日の競艇AI予想|データ厳選3レースを無料公開(唐津・常滑・江戸川)</title>
     <link>https://kyotei-lab.com/forecast-2026-10-30/</link>
@@ -132,20 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-22/</guid>
     <pubDate>Fri, 23 Oct 2026 03:46:11 +0900</pubDate>
     <description>10月22日の競艇予想の結果は3レース中1的中(回収率35.6%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>【10月22日】今日の競艇AI予想|データ厳選3レースを無料公開(児島・唐津・住之江)</title>
-    <link>https://kyotei-lab.com/forecast-2026-10-22/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-10-22/</guid>
-    <pubDate>Thu, 22 Oct 2026 07:40:47 +0900</pubDate>
-    <description>10月22日の競艇(ボートレース)予想。児島・唐津・住之江からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
-  </item>
-  <item>
-    <title>【10月21日】競艇AI予想の答え合わせ — 0/3的中</title>
-    <link>https://kyotei-lab.com/result-2026-10-21/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-21/</guid>
-    <pubDate>Thu, 22 Oct 2026 03:52:32 +0900</pubDate>
-    <description>10月21日の競艇予想の結果は3レース中0的中(回収率0.0%)。全買い目と払戻を包み隠さず公開しています。</description>
   </item>
 </channel>
 </rss>
