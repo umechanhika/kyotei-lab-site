@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 04:36:31 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 04:09:54 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月1日】競艇AI予想の答え合わせ — 1/3的中・払戻1,530円</title>
+    <link>https://kyotei-lab.com/result-2026-11-01/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-01/</guid>
+    <pubDate>Mon, 02 Nov 2026 04:09:54 +0900</pubDate>
+    <description>11月1日の競艇予想の結果は3レース中1的中(回収率85.0%)。全買い目と払戻を包み隠さず公開しています。</description>
+  </item>
   <item>
     <title>【11月1日】今日の競艇AI予想|データ厳選3レースを無料公開(鳴門・福岡・宮島)</title>
     <link>https://kyotei-lab.com/forecast-2026-11-01/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-24/</guid>
     <pubDate>Sun, 25 Oct 2026 02:33:42 +0900</pubDate>
     <description>10月24日の競艇予想の結果は3レース中1的中(回収率46.1%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>【10月24日】今日の競艇AI予想|データ厳選3レースを無料公開(福岡・平和島・尼崎)</title>
-    <link>https://kyotei-lab.com/forecast-2026-10-24/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-10-24/</guid>
-    <pubDate>Sat, 24 Oct 2026 07:34:47 +0900</pubDate>
-    <description>10月24日の競艇(ボートレース)予想。福岡・平和島・尼崎からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
   </item>
 </channel>
 </rss>
