@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 04 Nov 2026 06:19:09 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 06:09:21 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月4日】競艇AI予想の答え合わせ — 1/3的中・払戻1,090円</title>
+    <link>https://kyotei-lab.com/result-2026-11-04/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-04/</guid>
+    <pubDate>Thu, 05 Nov 2026 06:09:21 +0900</pubDate>
+    <description>11月4日の競艇予想の結果は3レース中1的中(回収率60.6%)。全買い目と払戻を包み隠さず公開しています。</description>
+  </item>
   <item>
     <title>【11月4日】今日の競艇AI予想|データ厳選3レースを無料公開(宮島・福岡)</title>
     <link>https://kyotei-lab.com/forecast-2026-11-04/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-27/</guid>
     <pubDate>Wed, 28 Oct 2026 04:36:05 +0900</pubDate>
     <description>10月27日の競艇予想の結果は3レース中2的中(回収率43.9%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>人気以上に勝つ選手はいるのか|1,606人の1着数をオッズの見込みと比べた</title>
-    <link>https://kyotei-lab.com/column-market-racers-2026-10-27/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/column-market-racers-2026-10-27/</guid>
-    <pubDate>Tue, 27 Oct 2026 16:52:43 +0900</pubDate>
-    <description>1,606人の1着数をオッズの見込みと比べると、偶然では説明できないほど外れた選手は2人。人気薄ほど見込みより勝たない市場全体の癖も集計した。</description>
   </item>
 </channel>
 </rss>
