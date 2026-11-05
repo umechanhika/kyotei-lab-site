@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 06 Nov 2026 06:11:55 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:03:51 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月6日】今日の競艇AI予想|データ厳選3レースを無料公開(宮島・福岡・桐生)</title>
+    <link>https://kyotei-lab.com/forecast-2026-11-06/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-11-06/</guid>
+    <pubDate>Fri, 06 Nov 2026 07:03:51 +0900</pubDate>
+    <description>11月6日の競艇(ボートレース)予想。宮島・福岡・桐生からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
+  </item>
   <item>
     <title>【11月5日】競艇AI予想の答え合わせ — 2/3的中・払戻870円</title>
     <link>https://kyotei-lab.com/result-2026-11-05/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-10-29/</guid>
     <pubDate>Thu, 29 Oct 2026 05:38:07 +0900</pubDate>
     <description>10月29日の競艇(ボートレース)予想。常滑・桐生・蒲郡からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
-  </item>
-  <item>
-    <title>【10月28日】競艇AI予想の答え合わせ — 2/3的中・払戻2,220円</title>
-    <link>https://kyotei-lab.com/result-2026-10-28/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-28/</guid>
-    <pubDate>Thu, 29 Oct 2026 04:50:23 +0900</pubDate>
-    <description>10月28日の競艇予想の結果は3レース中2的中(回収率167.8%)。全買い目と払戻を包み隠さず公開しています。</description>
   </item>
 </channel>
 </rss>
