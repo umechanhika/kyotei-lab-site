@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 08 Nov 2026 04:00:46 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 04:41:49 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月8日】今日の競艇AI予想|データ厳選3レースを無料公開(常滑・下関・桐生)</title>
+    <link>https://kyotei-lab.com/forecast-2026-11-08/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-11-08/</guid>
+    <pubDate>Sun, 08 Nov 2026 04:41:49 +0900</pubDate>
+    <description>11月8日の競艇(ボートレース)予想。常滑・下関・桐生からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
+  </item>
   <item>
     <title>【11月7日】競艇AI予想の答え合わせ — 0/2的中</title>
     <link>https://kyotei-lab.com/result-2026-11-07/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-10-30/</guid>
     <pubDate>Sat, 31 Oct 2026 04:38:40 +0900</pubDate>
     <description>10月30日の競艇予想の結果は3レース中1的中(回収率231.7%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>B1でも全国勝率が高い選手は、オッズの見込みより勝っていた|級別と実力のズレを検証</title>
-    <link>https://kyotei-lab.com/column-class-gap-2026-10-30/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/column-class-gap-2026-10-30/</guid>
-    <pubDate>Fri, 30 Oct 2026 18:40:30 +0900</pubDate>
-    <description>B1で全国勝率が中央値より0.5以上高い艇は、オッズの見込みの1.08〜1.12倍勝っていた。級別ごとに全国勝率の差で分けて集計した。</description>
   </item>
 </channel>
 </rss>
