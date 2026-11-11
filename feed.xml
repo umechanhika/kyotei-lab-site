@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 06:28:56 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 06:31:30 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月11日】競艇AI予想の答え合わせ — 1/3的中・払戻3,020円</title>
+    <link>https://kyotei-lab.com/result-2026-11-11/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-11/</guid>
+    <pubDate>Thu, 12 Nov 2026 06:31:30 +0900</pubDate>
+    <description>11月11日の競艇予想の結果は3レース中1的中(回収率167.8%)。全買い目と払戻を包み隠さず公開しています。</description>
+  </item>
   <item>
     <title>【11月11日】今日の競艇AI予想|データ厳選3レースを無料公開(宮島・大村・蒲郡)</title>
     <link>https://kyotei-lab.com/forecast-2026-11-11/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-02/</guid>
     <pubDate>Tue, 03 Nov 2026 07:52:39 +0900</pubDate>
     <description>11月2日の競艇予想の結果は3レース中0的中(回収率0.0%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>競艇AI予想サイトの誠実さ検証レポート(2026年11月)</title>
-    <link>https://kyotei-lab.com/report-2026-11-02/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/report-2026-11-02/</guid>
-    <pubDate>Mon, 02 Nov 2026 07:36:25 +0900</pubDate>
-    <description>競艇AI予想サイトの公表実績を公式結果から独立再計算した2026年11月の検証レポート。認定: BOATERS(ボーターズ)、競艇予想AI「ポセイドン」、競艇AIラボ(当サイト)。</description>
   </item>
 </channel>
 </rss>
