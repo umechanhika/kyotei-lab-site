@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 22 Nov 2026 00:55:24 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 23:39:22 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月22日】競艇AI予想の答え合わせ — 0/3的中</title>
+    <link>https://kyotei-lab.com/result-2026-11-22/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-22/</guid>
+    <pubDate>Sun, 22 Nov 2026 23:39:22 +0900</pubDate>
+    <description>11月22日の競艇予想の結果は3レース中0的中(回収率0.0%)。全買い目と払戻を包み隠さず公開しています。</description>
+  </item>
   <item>
     <title>【11月22日】今日の競艇AI予想|データ厳選3レースを無料公開(福岡・芦屋・三国)</title>
     <link>https://kyotei-lab.com/forecast-2026-11-22/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/result-2026-11-13/</guid>
     <pubDate>Sat, 14 Nov 2026 05:58:36 +0900</pubDate>
     <description>11月13日の競艇予想の結果は3レース中1的中(回収率37.2%)。全買い目と払戻を包み隠さず公開しています。</description>
-  </item>
-  <item>
-    <title>【11月13日】今日の競艇AI予想|データ厳選3レースを無料公開(唐津・津・蒲郡)</title>
-    <link>https://kyotei-lab.com/forecast-2026-11-13/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-11-13/</guid>
-    <pubDate>Fri, 13 Nov 2026 06:57:19 +0900</pubDate>
-    <description>11月13日の競艇(ボートレース)予想。唐津・津・蒲郡からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
   </item>
 </channel>
 </rss>
