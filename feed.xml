@@ -5,8 +5,15 @@
   <link>https://kyotei-lab.com/</link>
   <description>公式データだけで競艇(ボートレース)をAIが機械的に予想し、買い目・根拠・実績を無料で公開。的中率・回収率は盛らずにそのまま開示します。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 24 Nov 2026 23:39:50 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 00:56:09 +0900</lastBuildDate>
   <atom:link href="https://kyotei-lab.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>【11月25日】今日の競艇AI予想|データ厳選3レースを無料公開(芦屋・尼崎・丸亀)</title>
+    <link>https://kyotei-lab.com/forecast-2026-11-25/</link>
+    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-11-25/</guid>
+    <pubDate>Wed, 25 Nov 2026 00:56:09 +0900</pubDate>
+    <description>11月25日の競艇(ボートレース)予想。芦屋・尼崎・丸亀からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
+  </item>
   <item>
     <title>【11月24日】競艇AI予想の答え合わせ — 1/2的中・払戻1,840円</title>
     <link>https://kyotei-lab.com/result-2026-11-24/</link>
@@ -139,13 +146,6 @@
     <guid isPermaLink="true">https://kyotei-lab.com/column-2026-11-16/</guid>
     <pubDate>Mon, 16 Nov 2026 07:26:04 +0900</pubDate>
     <description>【競艇AIのデータ分析】堅い決着が多い競艇場ランキング(11月版)。ボートレース公式データを機械集計したコラムです。</description>
-  </item>
-  <item>
-    <title>【11月16日】今日の競艇AI予想|データ厳選3レースを無料公開(唐津・尼崎・丸亀)</title>
-    <link>https://kyotei-lab.com/forecast-2026-11-16/</link>
-    <guid isPermaLink="true">https://kyotei-lab.com/forecast-2026-11-16/</guid>
-    <pubDate>Mon, 16 Nov 2026 02:55:57 +0900</pubDate>
-    <description>11月16日の競艇(ボートレース)予想。唐津・尼崎・丸亀からデータで厳選した3レースの3連単買い目と根拠を無料で公開。外れた日も含めて実績を毎日公開中。</description>
   </item>
 </channel>
 </rss>
